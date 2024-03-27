@@ -8,5 +8,3 @@ function sumOfSquares(array) {
     }
     return sum;
 }
-  
-
